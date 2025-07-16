@@ -78,6 +78,9 @@ Presiona el botón "Agregar".
 
 Verás tu tarea aparecer en la lista.
 
+<img width="309" height="502" alt="image" src="https://github.com/user-attachments/assets/189e9774-a5ce-4fa0-808d-42c3d485a10c" />
+
+
 Puedes:
 
 Marcarla como completada ✅
