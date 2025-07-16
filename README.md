@@ -54,7 +54,7 @@ app/src/main/res/values/
 
 Descarga el `.zip` o clónalo desde tu repositorio:
 
-git clone [https://github.com/tu-usuario/todolist-kotlin.git](https://github.com/Sakhura/ToDoList2)
+git clone https://github.com/Sakhura/ToDoList2
 
 2. Abrir en Android Studio
 Abre Android Studio
